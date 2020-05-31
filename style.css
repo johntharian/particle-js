@@ -1,6 +1,7 @@
 body{
   background: firebrick;
   margin: 0;
+  box-sizing: content-box;
   font: normal 16px Arial,Helvetica,sand-serif;
   color:#333 ;
 }
